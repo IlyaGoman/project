@@ -4,3 +4,5 @@ rebase_branch
 cherry branch
 squash branch
 dev1
+master
+dev2
